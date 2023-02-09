@@ -12,9 +12,7 @@ while (input != 'QUIT') {
     else if(input != 'QUIT'){
         console.log('Welcome King')
     };
-
     if (input == 'QUIT'){
-        console.log('Goodbye Peasant')
+        console.log('Goodbye')
     };
-
 }
